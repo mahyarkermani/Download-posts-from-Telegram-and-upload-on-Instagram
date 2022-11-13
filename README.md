@@ -1,3 +1,8 @@
+# Warning
+
+Support for this source code (repository) ended in April 2022 and this source will no longer be updated. So, the code may have bugs and you can run it and debug it (and send the modified version to my email to publish with your name) or use the forks of this repository.
+
+
 # Introduction
 
 This module receives Telegram channel posts that are sent after the robot starts working
@@ -85,10 +90,6 @@ This program was written by a young Iranian and this person tries to keep his Gi
 If would you like to contact me, you can send a message to my personal email:
 
 - **mohammadmahyarkermani@gmail.com**
-
-You can also see my resume at the following link:
-
-{}
 
 
 # Report bugs
